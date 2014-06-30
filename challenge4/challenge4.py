@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# http://www.pythonchallenge.com/pc/def/linkedlist.php
+
 import urllib2
 
 response = urllib2.urlopen('http://www.pythonchallenge.com/pc/def/linkedlist.php?nothing=12345')

@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# http://www.pythonchallenge.com/pc/def/channel.html
+
 import zipfile
 
 z = zipfile.ZipFile("channel.zip","r")
